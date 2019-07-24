@@ -1,0 +1,95 @@
+.badge-primary-outline {
+    color: #004085;
+    border: solid 2px #b8daff;
+}
+
+.badge-secondary-outline {
+    color: #383d41;
+    border: solid 2px #d6d8db;
+}
+
+.badge-success-outline {
+    color: #155724;
+    border: solid 2px #c3e6cb;
+}
+
+.badge-danger-outline {
+    color: #721c24;
+    border: solid 2px #f5c6cb;
+}
+
+.badge-warning-outline {
+    color: #856404;
+    border: solid 2px #ffeeba;
+}
+
+.badge-info-outline {
+    color: #0c5460;
+    border: solid 2px #bee5eb;
+}
+
+.badge-light-outline {
+    color: #818182;
+    border: solid 2px #c6c8ca;
+}
+
+.badge-dark-outline {
+    color: #1b1e21;
+    border: solid 2px #c6c8ca;
+}
+
+.badge-primary-gradient {
+    color: white;
+    background: rgb(43,104,145);
+    background: linear-gradient(90deg, rgba(43,104,145,1) 0%, rgba(61,198,200,1) 43%, rgba(65,208,145,1) 100%);
+    border: none;
+}
+
+.badge-success-gradient {
+    color: white;
+    background: rgba(70,204,191,1);
+    background: linear-gradient(135deg, rgba(70,204,191,1) 0%, rgba(145,232,66,1) 100%);
+    border: none;
+}
+
+.badge-secondary-gradient {
+    color: white;
+    background: rgb(36,36,36);
+    background: linear-gradient(90deg, rgba(36,36,36,1) 0%, rgba(115,115,115,1) 43%, rgba(177,177,177,1) 100%); 
+    border: none;
+}
+
+.badge-danger-gradient {
+    color: white;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    border: none;
+}
+
+.badge-warning-gradient {
+    color: white;
+    background: rgb(228,205,33);
+    background: linear-gradient(90deg, rgba(228,205,33,1) 0%, rgba(250,206,76,1) 43%, rgba(214,110,42,1) 100%);
+    border: none;
+}
+
+.badge-info-gradient {
+    color: white;
+    background: rgb(33,199,228);
+    background: linear-gradient(90deg, rgba(33,199,228,1) 0%, rgba(76,250,206,1) 43%, rgba(42,214,156,1) 100%); 
+    border: none;
+}
+
+.badge-light-gradient {
+    color: black;
+    border: none;
+    background: rgb(235,235,235);
+    background: linear-gradient(90deg, rgba(235,235,235,1) 0%, rgba(177,177,177,1) 0%, rgba(242,242,242,1) 100%);
+}
+
+.badge-dark-gradient {
+    color: white;
+    border: none;
+    background: rgb(235,235,235);
+    background: linear-gradient(90deg, rgba(235,235,235,1) 0%, rgba(48,48,48,1) 0%, rgba(138,138,138,1) 66%, rgba(153,153,153,1) 100%);
+}
